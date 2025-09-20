@@ -27,7 +27,3 @@ cd xo-game
 3.Run the game:
 ```
 python xo-game.py
-
-
-
-
